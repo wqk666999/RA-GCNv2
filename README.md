@@ -160,6 +160,10 @@ Please cite our paper when you use this code in your reseach.
   title   = {Richly Activated Graph Convolutional Network for Robust Skeleton-based Action Recognition}, 
   author  = {Yi-Fan Song and Zhang Zhang and Caifeng Shan and Liang Wang},
   journal = {IEEE Transactions on Circuits and Systems for Video Technology}, 
-  year    = {2020},
+  volume = {31},
+  number = {5},
+  pages = {1915-1925},
+  year = {2021},
+  doi = {10.1109/TCSVT.2020.3015051},
 }
 ```
